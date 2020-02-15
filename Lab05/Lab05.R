@@ -3,7 +3,7 @@
 
 # 1: Creat variable x, assign a random numeric value. Use if-else statement to determine if x>5
 
-x <- 42  
+x <- sample(1:10,1,replace = TRUE) # I decided to try the sample function for the random number assignment
 
 # if evaluates if x>5
 # else only runs if x>5 is not TRUE
