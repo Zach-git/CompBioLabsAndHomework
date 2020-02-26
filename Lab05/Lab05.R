@@ -17,7 +17,7 @@ if(x > 5){
 setwd("~/Desktop/EBIO4420/CompBioLabsAndHomework/Lab05")
 Data <- read.csv('ExampleData.csv')
 
-# Turns dataframe into vector 
+# Turns dataframe into vector by selecting the first column index
 Data_vector <- Data[[1]]
 
 # 2a: Use a for loop to change every negative value to NA
@@ -78,11 +78,11 @@ CO2_data <- read.csv('CO2_data_cut_paste.csv')
 
 # 3a: Find first year where Gas emissions were non-zero
 
-min(which(CO2_data$Gas != 0))
+min(which(CO2_data$Gas != 0)) # finds the first year(lowest value) where the value was not 0
 
 # 3b: find which years total emissions were between 200 & 300 metric tons
 
-which(CO2_data$Total >= 200 & CO2_data$Total <= 300)
+which(CO2_data$Total >= 200 & CO2_data$Total <= 300) # uses which to find all the years index
 
 
 
