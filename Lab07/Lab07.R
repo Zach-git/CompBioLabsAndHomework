@@ -114,14 +114,23 @@ average <- function(x){
 # test calls
 average(c(5, 15, 10))
 
-data <- read.table()
+data <- read.table("DataForLab07.csv", header = TRUE)
+data <- data[,1]
+average(data)
 
 
 
+# Problem 4c
+# create a sum of squares function
+
+sum_sq <- function(data){
+  return(sum(sq_diff(data, average(data))))
+}
 
 
+# test call
 
-
+sum_sq(data)
 
 
 
