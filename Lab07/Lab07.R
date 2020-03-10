@@ -51,11 +51,11 @@ myAbs(c(1.1, 2, 0, -4.3, 9, -12))
 
 
 Fibonacci <- function(n, startingNum){
+ # if(startingNum != 0 | startingNum != 1){ # prints warning if starting umber is not 0 or 1
+   # print("Warning: starting number must be 0 or 1")
+ # }
   if(is.numeric(n) == FALSE | n <= 0 ){  # prints warning message for zero, negative, and non-numeric values 
     print("Warning: n must be a numeric value greather than 0")
-  }
-  if(startingNum != 1 | startingNum != 2){ # prints warning if starting umber is not 1 or 2
-    print("Warning: starting number must be 1 or 2")
   }
   if(n == 1){ # special conditional for n = 1
     return(startingNum)
