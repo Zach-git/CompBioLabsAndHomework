@@ -40,17 +40,14 @@ I was able to visualize observation counts of sea turtles around the globe. This
 
 I also created two histograms that show the salinity and pH associated with the highest observation counts. The histograms show the distribution of observations across the salinity and pH scales. This type of visualization can inform researchers of what climatic conditions observations are most likely to be made.
 
-![Salinity Histogram]
-(https://github.com/Zach-git/CompBioLabsAndHomework/blob/master/FinalProject/SalinityHistogram.pdf)
+![Salinity Histogram](https://github.com/Zach-git/CompBioLabsAndHomework/blob/master/FinalProject/SalinityHistogram.pdf)
 
-![pH Histogram]
-(https://github.com/Zach-git/CompBioLabsAndHomework/blob/master/FinalProject/pHHistogram.pdf)
+![pH Histogram](https://github.com/Zach-git/CompBioLabsAndHomework/blob/master/FinalProject/pHHistogram.pdf)
 
 
 Finally, I made a bar graph for species count. This shows which species were observed from most to least common. This can inform researchers of which species may be experiencing population declines.
 
-![Species Bar Graph]
-(SpeciesBarplot.pdf)
+![Species Bar Graph](https://github.com/Zach-git/CompBioLabsAndHomework/blob/master/FinalProject/SpeciesBarplot.pdf)
 
 
 
