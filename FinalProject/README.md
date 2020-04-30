@@ -34,8 +34,7 @@ My analysis starts by loading in the data. I then check for aspects of structure
 
 I was able to visualize observation counts of sea turtles around the globe. This type of visualization is handy for researchers or students interested in where populations reside. It could also be used as a baseline for anyone wanting to keep track of populations on a temporal scale.
 
-![World Map]
-(https://github.com/Zach-git/CompBioLabsAndHomework/blob/master/FinalProject/WorldMap.pdf)
+![World Map](https://github.com/Zach-git/CompBioLabsAndHomework/blob/master/FinalProject/WorldMap.pdf)
 
 
 I also created two histograms that show the salinity and pH associated with the highest observation counts. The histograms show the distribution of observations across the salinity and pH scales. This type of visualization can inform researchers of what climatic conditions observations are most likely to be made.
