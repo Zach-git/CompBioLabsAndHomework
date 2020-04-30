@@ -50,7 +50,7 @@ I also created two histograms that show the salinity and pH associated with the 
 Finally, I made a bar graph for species count. This shows which species were observed from most to least common. This can inform researchers of which species may be experiencing population declines.
 
 ![Species Bar Graph]
-(https://github.com/Zach-git/CompBioLabsAndHomework/blob/master/FinalProject/SpeciesBarplot.pdf)
+(SpeciesBarplot.pdf)
 
 
 
